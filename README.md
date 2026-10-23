@@ -1,9 +1,8 @@
 mytestrepo
 
-\*\*<u>\*Alyan Khan\*</u>\*\*
-===
+<b><i><u>Alyan Khan</u></i></b>
 
 
 
-\*\*<u>\*SYST16023 - MS PowerShell Scripting\*</u>\*\*
+<b><i><u>SYST16023 - MS PowerShell Scripting</u></i></b>
 
